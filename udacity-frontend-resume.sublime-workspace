@@ -63,7 +63,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5042,
+				"buffer_size": 5010,
 				"line_ending": "Unix"
 			}
 		}
@@ -92,6 +92,7 @@
 	},
 	"file_history":
 	[
+		"/Users/bcupham/Dropbox/webfiles/udacity/FE_Nanodegree_Project_2/index.html",
 		"/Users/bcupham/Dropbox/webfiles/udacity/FE_Nanodegree_Project_1/css/style.css",
 		"/Users/bcupham/Dropbox/webfiles/udacity/FE_Nanodegree_Project_1/js/global.js",
 		"/Users/bcupham/.bash_profile",
@@ -175,7 +176,7 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 5042,
+						"buffer_size": 5010,
 						"regions":
 						{
 						},
@@ -247,11 +248,11 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": false,

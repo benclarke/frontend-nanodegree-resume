@@ -65,7 +65,7 @@ The International Name challenge in Lesson 2 where you'll create a function that
 var internationalized = false;
 $(document).ready(function() {
   $('button').click(function() {
-    if (internationalized == false) {
+    if (internationalized === false) {
       var iName = inName() || function(){};
       $('#name').html(iName);
       internationalized = true;
